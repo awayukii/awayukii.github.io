@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8782a892","path":"/readbook/","title":"Here will be my room to read","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"readbook/README.md"}');export{e as data};

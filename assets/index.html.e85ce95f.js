@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fe4f3c46","path":"/fd/ability/","title":">kie co pus ate~A~ socia\\"[","lang":"fd-LG","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"fd/ability/README.md"}');export{t as data};

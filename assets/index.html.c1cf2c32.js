@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc52599a","path":"/friends/","title":"Here will be my circle of friends","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"friends/README.md"}');export{e as data};

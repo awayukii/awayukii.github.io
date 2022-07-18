@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e,b as o}from"./app.c7684d84.js";const s={},i=e("h1",{id:"kie-co-pus-ate-a-socia",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#kie-co-pus-ate-a-socia","aria-hidden":"true"},"#"),o(' >kie co pus ate~A~ socia"[')],-1),r=[i];function n(_,d){return c(),t("div",null,r)}var l=a(s,[["render",n],["__file","index.html.vue"]]);export{l as default};

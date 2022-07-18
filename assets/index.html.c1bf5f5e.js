@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-537d4a5c","path":"/fd/friends/","title":">kie co pus ate~A~ wulen\\"[","lang":"fd-LG","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"fd/friends/README.md"}');export{e as data};
